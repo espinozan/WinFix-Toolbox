@@ -33,7 +33,7 @@ WinFixToolbox is a versatile batch script for repairing and optimizing Windows s
 1. **Download the Script:**
    - Clone the repository or download the script file to your Windows computer.
      ```sh
-     git clone https://github.com/epinozan/WinFix-Toolbox.git
+     git clone https://github.com/espinozan/WinFix-Toolbox.git
      ```
 2. **Run as Administrator:**
    - Right-click on the script file and select "Run as administrator."
@@ -60,7 +60,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, please open an issue on GitHub or contact [epinozan](https://github.com/epinozan).
+For any questions or support, please open an issue on GitHub or contact [espinozan](https://github.com/espinozan).
 
 ---
 
